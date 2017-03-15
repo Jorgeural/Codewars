@@ -1,0 +1,1 @@
+This are my solutios to some Katas @Codewars.com
